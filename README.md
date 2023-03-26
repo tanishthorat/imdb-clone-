@@ -20,7 +20,7 @@ To install the IMDB, simply download or clone the repository to your local machi
 
 ## Usage
 
-earch any movie from the API and display the search results on the frontend 
+Search any movie from the API and display the search results on the frontend 
 
 
 ![image](https://user-images.githubusercontent.com/68606255/227794642-7d048bb2-13ab-4cb6-af00-601f96b217dd.png)
