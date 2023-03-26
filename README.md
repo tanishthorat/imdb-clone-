@@ -48,8 +48,8 @@ Search any movie from the API and display the search results on the frontend
 (https://tanish02.github.io/Stopwatch/)
  - Movie Page
 (https://tanish02.github.io/Stopwatch/)
- - My favourite movies Page(https://tanish02.github.io/Stopwatch/)
-
+ - My favourite movies Page (https://tanish02.github.io/Stopwatch/)
+ - Resposive
 
 ## Authors
 
