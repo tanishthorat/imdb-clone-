@@ -162,15 +162,15 @@ function renderWatchlist() {
 
 // Extra if we want to store watchlist items locally
 
-//   window.addEventListener("load", function() {
-//     const storedWatchlist = localStorage.getItem("watchlist");
-//     if (storedWatchlist) {
-//       watchlist.push(...JSON.parse(storedWatchlist));
-//     }
-//     renderWatchlist();
-//   });
+  window.addEventListener("load", function() {
+    const storedWatchlist = localStorage.getItem("watchlist");
+    if (storedWatchlist) {
+      watchlist.push(...JSON.parse(storedWatchlist));
+    }
+    renderWatchlist();
+  });
   
-//   window.addEventListener("beforeunload", function() {
-//     localStorage.setItem("watchlist", JSON.stringify(watchlist));
-//   });
+  window.addEventListener("beforeunload", function() {
+    localStorage.setItem("watchlist", JSON.stringify(watchlist));
+  });
   
