@@ -4,7 +4,7 @@ This is a Mini IMDB clone created using HTML, CSS,Tailwind and vanilla JavaScrip
 
 
 ## Demo
-You can see a live demo of the stopwatch here: https://tanish02.github.io/Stopwatch/](https://tanish02.github.io/imdb-clone-/
+You can see a live demo of the stopwatch here: https://tanish02.github.io/imdb-clone-/
 
 
 ## Deployment/ Installation
