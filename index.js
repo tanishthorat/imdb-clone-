@@ -173,4 +173,4 @@ function renderWatchlist() {
   window.addEventListener("beforeunload", function() {
     localStorage.setItem("watchlist", JSON.stringify(watchlist));
   });
-  
+ 
